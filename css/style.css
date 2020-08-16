@@ -1,0 +1,17 @@
+.centerImg{
+    padding: 50px;
+    transition: transform .2s; /* Animation */
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.centerImg:hover{
+    transform: scale(1.2);
+
+}
+
+.loginMargin{
+    margin-top: 10%;
+}
